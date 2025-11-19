@@ -87,7 +87,4 @@ platforms:
     name: "凤凰网"
   - id: "weibo"
     name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "zhihu"
-    name: "知乎"
+    
